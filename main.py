@@ -11,4 +11,5 @@ genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 input_text= "why sky is blue"
 
 print(genai.chat())
+print("Hello World")
 
