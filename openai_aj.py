@@ -9,10 +9,10 @@ import cassio
 
 from PyPDF2 import PdfReader
 
-ASTRA_DB_APPLICATION_TOKEN = "AstraCS:memuPzmNDRjXUNXmfxzgpLBQ:045218cb573cfb50b2a58bb91e3b0185f779888c03a412dae5ac97ca92a6bf5a"  # click on generate token and copy the token
-ASTRA_DB_ID = "ef4e67d3-2ec3-496d-baf9-6be34fdfc266"
+ASTRA_DB_APPLICATION_TOKEN = ""  # click on generate token and copy the token
+ASTRA_DB_ID = ""
 
-OPEN_API_KEY = "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"
+OPEN_API_KEY = ""
 
 pdfreader = PdfReader('C:/Users/Anfinsen/PycharmProjects/Anfinsen/About Me - Anfinsen Joseph.pdf')
 
